@@ -1,3 +1,4 @@
 1-Repasando aspectos de git
 2-Creé la rama blaster
 3-preparación del merge
+4-Mejorando con ayuda del repaso
